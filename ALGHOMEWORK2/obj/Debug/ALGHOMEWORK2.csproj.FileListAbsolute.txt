@@ -1,0 +1,6 @@
+c:\users\apo\documents\visual studio 2015\Projects\ALGHOMEWORK2\ALGHOMEWORK2\bin\Debug\ALGHOMEWORK2.exe.config
+c:\users\apo\documents\visual studio 2015\Projects\ALGHOMEWORK2\ALGHOMEWORK2\bin\Debug\ALGHOMEWORK2.exe
+c:\users\apo\documents\visual studio 2015\Projects\ALGHOMEWORK2\ALGHOMEWORK2\bin\Debug\ALGHOMEWORK2.pdb
+c:\users\apo\documents\visual studio 2015\Projects\ALGHOMEWORK2\ALGHOMEWORK2\obj\Debug\ALGHOMEWORK2.csprojResolveAssemblyReference.cache
+c:\users\apo\documents\visual studio 2015\Projects\ALGHOMEWORK2\ALGHOMEWORK2\obj\Debug\ALGHOMEWORK2.exe
+c:\users\apo\documents\visual studio 2015\Projects\ALGHOMEWORK2\ALGHOMEWORK2\obj\Debug\ALGHOMEWORK2.pdb
